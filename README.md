@@ -1,7 +1,7 @@
 # HC32F460 Tiny Core
 
 
-## 核心板图示
-![image](https://github.com/Egahp/hc32f460_tiny/blob/master/Picture/TopView.png)
+## Picture
+![image](https://github.com/Egahp/HC32F460_TinyCore/blob/master/Picture/TopView.png)
 
-![image](https://github.com/Egahp/hc32f460_tiny/blob/master/Picture/BottomView.png)
+![image](https://github.com/Egahp/HC32F460_TinyCore/blob/master/Picture/BottomView.png)
